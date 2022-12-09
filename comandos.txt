@@ -1,0 +1,13 @@
+comandos que se usaron en git para subir el repositorio
+- git init
+- git status
+- git add nombre del archivo
+-git config --global user.email "kenysaltos28@gmail.com"
+- git config --global user.name "keny saltos"
+- git show
+- git commit -m "algun comentario"
+- git show
+- git branch -M main
+- git remote add origin https://github.com/ksaltos/practica-de-css.git
+- git push -u origin main
+
